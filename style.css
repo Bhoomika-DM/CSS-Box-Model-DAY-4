@@ -1,0 +1,17 @@
+/* Styling for the box-model class */
+.box-model {
+    width: 300px;             /* Width of the box */
+    background-color: lightblue; /* Color of the content area */
+    padding: 20px;            /* Space between the content and the border */
+    border: 5px solid blue;   /* Border around the padding */
+    margin: 40px;             /* Space between the box and other elements */
+}
+
+/* Styling for the content inside the box */
+.content {
+    background-color: white;  /* Content background color */
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+}
